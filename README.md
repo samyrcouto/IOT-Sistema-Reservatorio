@@ -162,7 +162,7 @@ O dashboard apresenta:
 
 ## 🎥 Vídeo Youtube
 
-🔗 Link: 
+🔗 Link: https://www.youtube.com/watch?v=nXFGsM-1RwM
 
 ---
 
